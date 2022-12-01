@@ -154,9 +154,19 @@ padding-top: 2%;
 
 .right1{
     background: black;
+
     height: 450px;
     width: 100%;
+   
     
+}
+
+.position-relative{
+    position: relative;
+}
+
+.zindex{
+    z-index: -1;
 }
 
 .right1 video {
@@ -228,11 +238,13 @@ padding-top: 2%;
     
 }
 
+
+
 .right video {
     position: absolute;
     top: 1050px;
-    left: 855px;
-    margin-top: 740px;
+    left: 1074px;
+    margin-top: 750px;
 }
 .flex{
     display: flex;
